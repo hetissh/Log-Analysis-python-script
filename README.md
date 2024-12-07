@@ -74,7 +74,7 @@ cd log-analysis-python-script
 Run the script by executing the following command:
 
 ```bash
-python log_analysis.py
+python log analysis script.py
 ```
 
 ### 4. View Results
